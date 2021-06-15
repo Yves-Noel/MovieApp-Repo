@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MovieApp-Repo/static/css/main.fb295b42.chunk.css",
+    "main.js": "/MovieApp-Repo/static/js/main.6abee82e.chunk.js",
+    "main.js.map": "/MovieApp-Repo/static/js/main.6abee82e.chunk.js.map",
+    "runtime-main.js": "/MovieApp-Repo/static/js/runtime-main.bdd087d1.js",
+    "runtime-main.js.map": "/MovieApp-Repo/static/js/runtime-main.bdd087d1.js.map",
+    "static/js/2.34c9e7b3.chunk.js": "/MovieApp-Repo/static/js/2.34c9e7b3.chunk.js",
+    "static/js/2.34c9e7b3.chunk.js.map": "/MovieApp-Repo/static/js/2.34c9e7b3.chunk.js.map",
+    "static/js/3.4945397e.chunk.js": "/MovieApp-Repo/static/js/3.4945397e.chunk.js",
+    "static/js/3.4945397e.chunk.js.map": "/MovieApp-Repo/static/js/3.4945397e.chunk.js.map",
+    "index.html": "/MovieApp-Repo/index.html",
+    "static/css/main.fb295b42.chunk.css.map": "/MovieApp-Repo/static/css/main.fb295b42.chunk.css.map",
+    "static/js/2.34c9e7b3.chunk.js.LICENSE.txt": "/MovieApp-Repo/static/js/2.34c9e7b3.chunk.js.LICENSE.txt",
+    "static/media/Searchbar.css": "/MovieApp-Repo/static/media/background_search_mobile.db806653.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd087d1.js",
+    "static/js/2.34c9e7b3.chunk.js",
+    "static/css/main.fb295b42.chunk.css",
+    "static/js/main.6abee82e.chunk.js"
+  ]
+}
